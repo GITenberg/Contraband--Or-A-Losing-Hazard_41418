@@ -1,0 +1,30 @@
+_repo: Contraband--Or-A-Losing-Hazard_41418
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whyte-Melville, G. J. (George John)
+    aliases:
+    - Whyte-Melville, George John
+    - Melville, G. J. Whyte
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '3832'
+    url: http://www.gutenberg.org/2009/agents/3832
+    wikipedia: http://en.wikipedia.org/wiki/George_Whyte-Melville
+description: ''
+gutenberg_issued: '2012-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: Contraband; Or, A Losing Hazard
+url: http://www.gutenberg.org/ebooks/41418
